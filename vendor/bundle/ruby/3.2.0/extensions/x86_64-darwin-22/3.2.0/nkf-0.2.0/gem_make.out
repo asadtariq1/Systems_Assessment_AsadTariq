@@ -1,0 +1,20 @@
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment_AsadTariq/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment_AsadTariq/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240308-30580-97kyam sitelibdir\=./.gem.20240308-30580-97kyam clean
+
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment_AsadTariq/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240308-30580-97kyam sitelibdir\=./.gem.20240308-30580-97kyam
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment_AsadTariq/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240308-30580-97kyam sitelibdir\=./.gem.20240308-30580-97kyam install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240308-30580-97kyam
+
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment_AsadTariq/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240308-30580-97kyam sitelibdir\=./.gem.20240308-30580-97kyam clean

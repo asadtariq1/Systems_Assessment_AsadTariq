@@ -1,0 +1,16 @@
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment_AsadTariq/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment_AsadTariq/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240308-30580-jp2o8f sitelibdir\=./.gem.20240308-30580-jp2o8f clean
+
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment_AsadTariq/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240308-30580-jp2o8f sitelibdir\=./.gem.20240308-30580-jp2o8f
+make: Nothing to be done for `all'.
+
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment_AsadTariq/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240308-30580-jp2o8f sitelibdir\=./.gem.20240308-30580-jp2o8f install
+
+current directory: /Users/muhammadasadtariq/Desktop/Github/Systems_Assessment_AsadTariq/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240308-30580-jp2o8f sitelibdir\=./.gem.20240308-30580-jp2o8f clean
